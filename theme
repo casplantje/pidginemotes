@@ -1,4 +1,4 @@
-Name=Original Smileys 1.6
+Name=Twitch emotes and more 1.6
 Description=Y! WLM GTalk AIM ICQ Skype FB MySpaceIM GG Tlen Sametime (QQ)
 Icon=pidgin-original.png
 Author=Andrei Neculau
@@ -446,6 +446,16 @@ youpickgames/youDERP.png		youDERP
 youpickgames/youKawaii.png		youKawaii
 youpickgames/youSad.png			youSad
 youpickgames/youFIRED.png		youFIRED
+
+wolfsgorawr/wolfsclaw.png		wolfsCLAW
+wolfsgorawr/wolfslewd.png		wolfsLEWD
+wolfsgorawr/wolfsrage.png		wolfsRAGE
+wolfsgorawr/wolfsrekt.png		wolfsREKT
+wolfsgorawr/wolfszeke.png		wolfsZEKE
+wolfsgorawr/wolfsfail.png		wolfsFAIL
+wolfsgorawr/wolfslove.png		wolfsLOVE
+wolfsgorawr/wolfsrawr.png		wolfsRAWR
+wolfsgorawr/wolfswtf.png		wolfsWTF
 
 
 # Variations
