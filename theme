@@ -402,7 +402,7 @@ Twitch_Theme/strawbeary.png			StrawBeary
 Twitch_Theme/supervinlin.png		SuperVinlin
 Twitch_Theme/swiftrage.png			SwiftRage
 Twitch_Theme/tf2john.png			TF2John
-Twitch_Theme/tehfunrun.png			TehFunrun
+Twitch_Theme/tehfunrun.png			FunRun
 Twitch_Theme/theringer.png			TheRinger
 Twitch_Theme/thetarfu.png			TheTarFu
 Twitch_Theme/thunbeast.png			ThunBeast
@@ -425,10 +425,15 @@ elegyofgames/eogHubris.png		eogHubris
 elegyofgames/eogGud.png			eogGud
 elegyofgames/eogGODOT.png		eogGODOT
 elegyofgames/eogGG.png			eogGG
-elegyofgames/eogBoxNinja.png		eogBoxNinja
+elegyofgames/eogBoxNinja.png	eogBoxNinja
 elegyofgames/eogAce.png			eogAce
 elegyofgames/eogFacePom.png		eogFacePom
 elegyofgames/eogFool.png		eogFool
+elegyofgames/eogDukes.png		eogDukes
+elegyofgames/eogRoss.png		eogRoss
+elegyofgames/eog121.png			eog121
+elegyofgames/eogStahp.png		eogStahp
+elegyofgames/eogWhat.png		eogWhat
 
 excessiveprofanity/xxxBEAT.png		xxxBEAT
 excessiveprofanity/xxxBOOPY.png		xxxBOOPY
@@ -437,6 +442,12 @@ excessiveprofanity/xxxP.png		xxxP
 excessiveprofanity/xxxPLICIT.png	xxxPLICIT
 excessiveprofanity/xxxTASY.png		xxxTASY
 excessiveprofanity/xxxTIASU.png		xxxTIASU
+excessiveprofanity/xxxCOM.png		xxxCOM
+excessiveprofanity/xxxDK.png		xxxDK
+excessiveprofanity/xxxNETAL.png		xxxNETAL
+excessiveprofanity/xxxC.png		xxxC
+
+
 
 youpickgames/youPaul.png		youPaul
 youpickgames/youNoah.png		youNoah
@@ -466,6 +477,9 @@ bexyish/bexyFLAIL.png			bexyFLAIL
 bexyish/bexyHNNG.png			bexyHNNG
 bexyish/bexyLOVE.png			bexyLOVE
 bexyish/bexySAD.png				bexySAD
+bexyish/bexyRAGE.png			bexyRAGE
+bexyish/bexyBOMB.png			bexyBOMB
+bexyish/bexyIRDY.png			bexyIRDY
 
 MANvsGAME/manAWW.png			manAWW
 MANvsGAME/manBRO.png			manBRO
@@ -482,6 +496,7 @@ MANvsGAME/manPUMP.png			manPUMP
 MANvsGAME/manSEL.png			manSEL
 MANvsGAME/manSUN.png			manSUN
 MANvsGAME/manZEKE.png			manZEKE
+MANvsGAME/manMINI.png			manMINI
 
 # Variations
 ! gtalk/equalsmile.gif		=)
