@@ -438,14 +438,16 @@ elegyofgames/eogWhat.png		eogWhat
 excessiveprofanity/xxxBEAT.png		xxxBEAT
 excessiveprofanity/xxxBOOPY.png		xxxBOOPY
 excessiveprofanity/xxxFIREBAD.png	xxxFIREBAD
-excessiveprofanity/xxxP.png		xxxP
+excessiveprofanity/xxxP.png			xxxP
 excessiveprofanity/xxxPLICIT.png	xxxPLICIT
 excessiveprofanity/xxxTASY.png		xxxTASY
 excessiveprofanity/xxxTIASU.png		xxxTIASU
 excessiveprofanity/xxxCOM.png		xxxCOM
 excessiveprofanity/xxxDK.png		xxxDK
 excessiveprofanity/xxxNETAL.png		xxxNETAL
-excessiveprofanity/xxxC.png		xxxC
+excessiveprofanity/xxxC.png			xxxC
+excessiveprofanity/xxxB.png			xxxB
+excessiveprofanity/xxxD.png			xxxD
 
 
 
@@ -586,6 +588,7 @@ gg/2-z_jezorem.gif			<z\ jezorem>
 gg/2-zniesmaczony.gif		<zniesmaczony>
 gg/2-niee.gif				niee
 gg/2-tiaaa.gif				tiaaa
+
 gg/2-zdziwko.gif			<zdziwiony>
 gg/2-beksa.gif				<beksa>
 gg/2-lol.gif				<haha>
