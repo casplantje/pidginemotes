@@ -1,9 +1,9 @@
-Name=Twitch emotes and more 1.6
-Description=Y! WLM GTalk AIM ICQ Skype FB MySpaceIM GG Tlen Sametime (QQ)
+Name=Twitch emotes
+Description=A bunch of emotes from twitch
 Icon=pidgin-original.png
-Author=Andrei Neculau
+Author=Casplantje and Garyfaceman
 Version=1.6
-URI=http://andreineculau.com/go/original-smileys/
+URI=http://127.0.0.1
 
 
 # Default (taken from Pidgin's default theme)
